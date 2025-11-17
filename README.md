@@ -19,17 +19,19 @@
 </p>
 
 <p align="center">
-  <em>Some of these icons are from my own projects!</em>  
-  <br/>🧩 <a href="https://github.com/Roshan231203">https://github.com/Roshan231203</a>
+  <em>Some of these icons are from my own projects!</em><br/>
+  🧩 <a href="https://github.com/Roshan231203">https://github.com/Roshan231203</a>
 </p>
-
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 <p align="center">
-  💌 <strong>Public Email:<a href="roshan231203@gmail.com"> </strong> <code>roshan231203@gmail.com</code><br> </a>
-  💌 <strong>Personal Email:<a href="davidroshan65@gmail.com"> </strong> <code>davidroshan65@gmail.com</code> </a>
+  💌 <strong>Public Email:</strong>
+  <a href="mailto:roshan231203@gmail.com"><code>roshan231203@gmail.com</code></a><br/>
+
+  💌 <strong>Personal Email:</strong>
+  <a href="mailto:davidroshan65@gmail.com"><code>davidroshan65@gmail.com</code></a>
 </p>
 
 ---
@@ -38,3 +40,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4facfe,100:00f2fe&section=footer" />
 </p>
+
+## 🚗 Animated Car on Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshan231203/roshan231203/output/car-contribution-graph.svg" alt="Car Animation" />
+</p>
+
+
