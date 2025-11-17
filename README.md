@@ -17,11 +17,14 @@
     <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular" />
   </a>
 </p>
+
 <p align="center">
-> _Some of these icons are from my own projects!_  
-🧩 https://github.com/Roshan231203
+  <em>Some of these icons are from my own projects!</em><br>
+  🧩 <a href="https://github.com/Roshan231203">https://github.com/Roshan231203</a>
 </p>
+
 ---
+
 ## 🎮 Car Game Animation  
 <p align="center">
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400" />
@@ -29,12 +32,12 @@
 
 ---
 
-
-<p align="center">
 ## 📫 Connect With Me  
-- 💌 **Public Email:** `roshan231203@gmail.com`  
-- 💌 **Personal Email:** `davidroshan65@gmail.com`  
+<p align="center">
+  💌 <strong>Public Email:</strong> <code>roshan231203@gmail.com</code><br>
+  💌 <strong>Personal Email:</strong> <code>davidroshan65@gmail.com</code>
 </p>
+
 ---
 
 ## 🔥 Bonus: Cool Animated Footer  
