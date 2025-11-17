@@ -41,10 +41,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4facfe,100:00f2fe&section=footer" />
 </p>
 
-## 🚗 Animated Car on Contributions
-
-<p align="center">
-  <img src="https://github.com/Roshan231203/Roshan231203/blob/main/dist/output/car-contribution-graph.svg" alt="Car Animation" />
-</p>
 
 
