@@ -25,11 +25,11 @@
     <a href="https://tailwindcss.com/">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
-  <a href="https://github.com/Roshan231203">
+  <a href="https://github.com/DavRoshan">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
 
-  <a href="https://github.com/Roshan231203">
+  <a href="https://github.com/DavRoshan">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
   <a href="https://redux.js.org/">
@@ -41,7 +41,7 @@
     <a href="https://vercel.com/roshan-proz">
     <img src="https://skillicons.dev/icons?i=vercel" />  
   </a>
-   <a href="https://github.com/Roshan231203">
+   <a href="https://github.com/DavRoshan">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
