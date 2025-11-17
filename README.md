@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Roshan;Front-End+Developer;UI+%2F+UX+Lover;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Roshan;Front-End+Developer)](https://git.io/typing-svg)
 
 # 👋 Hey There!
 **I'm Roshan**  
