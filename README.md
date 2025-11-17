@@ -23,35 +23,13 @@
   <br/>🧩 <a href="https://github.com/Roshan231203">https://github.com/Roshan231203</a>
 </p>
 
----
-
-# 🎮 Game Animations  
-### 🚗 Car Game  
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400" />
-</p>
-
-### 🐍 Snake Game  
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btW6MLQ7P8GTGkM/giphy.gif" width="350" />
-</p>
-
-### 👾 Space Invader  
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="350" />
-</p>
-
-### 🏎️ Retro Racing  
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="350" />
-</p>
 
 ---
 
 ## 📫 Connect With Me  
 <p align="center">
-  💌 <strong>Public Email:</strong> <code>roshan231203@gmail.com</code><br>
-  💌 <strong>Personal Email:</strong> <code>davidroshan65@gmail.com</code>
+  💌 <strong>Public Email:<a href="roshan231203@gmail.com"> </strong> <code>roshan231203@gmail.com</code><br> </a>
+  💌 <strong>Personal Email:<a href="davidroshan65@gmail.com"> </strong> <code>davidroshan65@gmail.com</code> </a>
 </p>
 
 ---
