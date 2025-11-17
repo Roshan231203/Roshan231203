@@ -32,7 +32,7 @@
 ## 📫 Connect With Me
 <p align="center">
  <a href="davidroshan65@gmail.com">
-   <img src="https://skillicons.dev/icons?i=gmai" />
+   <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
    <img src="https://skillicons.dev/icons?i=linkedin" />
