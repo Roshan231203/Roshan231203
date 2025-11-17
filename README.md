@@ -31,7 +31,6 @@
 <p align="center">
   💌 <strong>Public Email:</strong>
   <a href="mailto:roshan231203@gmail.com"><code>roshan231203@gmail.com</code></a><br/>
-
   💌 <strong>Personal Email:</strong>
   <a href="mailto:davidroshan65@gmail.com"><code>davidroshan65@gmail.com</code></a>
 </p>
