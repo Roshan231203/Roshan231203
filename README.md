@@ -15,6 +15,9 @@
 
 ## 🚀 Tech Stack
 <p align="center">
+    <a href="https://github.com/Roshan231203">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
   <a href="https://github.com/Roshan231203">
     <img src="https://skillicons.dev/icons?i=vite,react,tailwind,js,html,postman,redux,angular,git,github" />
     <a href="https://vercel.com/roshan-proz">
@@ -23,27 +26,17 @@
   </a>
 </p>
 
-<p align="center">
-  <em>Some of these icons are from my own projects!</em><br/>
-  <a href="https://github.com/Roshan231203">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
-   <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  💌 <strong>Public Email:</strong>
-  <a href="mailto:roshan231203@gmail.com"><code>roshan231203@gmail.com</code></a><br/>
-  💌 <strong>Personal Email:</strong>
-  <a href="mailto:davidroshan65@gmail.com"><code>davidroshan65@gmail.com</code></a><br/>
-  🔗 <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293"><code>ʀᴏꜱʜᴀɴ-m</code></a>
+ <a href="davidroshan65@gmail.com">
+   <img src="https://skillicons.dev/icons?i=gmai" />
+  </a>
+  <a href="https://www.linkedin.com/in/ʀᴏꜱʜᴀɴ-m-0b8549293">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 
