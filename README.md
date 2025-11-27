@@ -69,10 +69,3 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
----
-
-## 🌟 Bonus: Fun Animated GIFs
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" style="border-radius:10px;" title="Coding GIF" />
-  <img src="https://media.giphy.com/media/3o7aD4N9G0tZ0hQw1C/giphy.gif" width="150" style="border-radius:10px;" title="Coffee GIF" />
-</p>
